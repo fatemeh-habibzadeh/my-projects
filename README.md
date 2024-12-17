@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hey!  
+I'm Fatemeh Habibzadeh,  
+a passionate programmer with a deep interest in Artificial Intelligence.  
 
-<!--
-**fatemeh-habibzadeh/fatemeh-habibzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact Me:
+- **Email:** [fatemehhabibzadehharris@gmail.com](mailto:fatemehhabibzadehharris@gmail.com)  
+- **LinkedIn:** [Fatemeh Habibzadeh on LinkedIn](https://www.linkedin.com/in/fatemeh-habibzadeh-harris-51764b340)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Programming Skills:
+- Proficient in **Python**  
+- Experienced in **Machine Learning** and **Deep Learning**  
+- Skilled in building and optimizing AI models for diverse applications  
