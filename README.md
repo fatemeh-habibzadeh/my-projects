@@ -1,6 +1,5 @@
 # 👋 Hey!  
-I'm Fatemeh Habibzadeh,  
-a passionate programmer with a deep interest in Artificial Intelligence.  
+I'm Fatemeh Habibzadeh, with a deep interest in Artificial Intelligence.  
 
 ## 📫 Contact Me:
 - **Email:** [fatemehhabibzadehharris@gmail.com](mailto:fatemehhabibzadehharris@gmail.com)  
